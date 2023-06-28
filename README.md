@@ -217,103 +217,81 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 # Image Processing
 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr)
-segmentacion de un arroz
+## Basics
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr) Introduuctory Example: Segmentation of a rice
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C)
-Sampling (muestreo espacial y de tonos de gris)
+Sampling (spatial and grayscale sampling)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O)
-Segmentacion simple a color
+Basic color segmentation
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI)
-Trabajo en Clases E02
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JCCryTTgCjr3LOc7vo-BpfOUtcFKkwUV)
-Solucion al Trabajo en Clases E02
+## Image Processing in Spatial Domain
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W)
- Transformacion Geometrica
+Geometric Transformation
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t)
- ecualizacion de histograma
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16S76bdeZuadijmVpkFIohXKce8k1PQpY)
-Trabajo en Clases E03
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Y-gq9bbT5DwcR4M26EqEuDit1q5WMsQ)
-Solucion al Trabajo en Clases E03
+Equalization of Histogram
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XX675cvJDBDnoHRU3LnPaBs0mR0mjqZP)
-Ejemplos con mascaras (kernels)
+Filtering with Masks (kernels)
+
+## Image Processing in Frequency Domain
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg)
-Convolucion en 1D
+1D Convolution
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF)
-Transformada de Fourier (1D) con audio
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ohiRMkO4AaTgW9ZWCIyeCaUtG69L5KV2)
-Trabajo en Clases E05
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq)
-Solucion al Trabajo en Clases E05
+1D Fourier Transform for Audio Signals
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi)
-Filtros 2D usando Fourier
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HoxqVxclylZgLo5ZxLTMZh1dQZkAxIGS)
-Trabajo en Clases E07
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNVH4-AkpdLOCOesDCJ9AtXKP_Yz6iH8)
-Solucion al Trabajo en Clases E07
-
+2D Filtering uisng Fourier
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wKwqaNt69I7FNl_mJq3wpg0l4xHi-Nit)
- Filtro Homomorfico
+Homomorphic Filter
 
+## Image Restauration
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o)
- restauracion
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12qasCr92sDi9AiUQU3iR3BjlQ0wCunhJ)
-Funciones para el proyecto
+Basic Image Restauration
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FqJdpqbyZoSD60Wzzr5gTGcpqyazCN-1)
-Filtro Wiener
+Wiener Filter
 
+## Morphology
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ibtjuy9wefTFZ4S6bZJWNPBw_rD4Jilo)
-Ejemplos de morfologia
+Erosion, Dilatio, Opening, Closing
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mq2W2sYdRmGVRKYPUY5awyjQ1LXHajKJ)
-Mediana
+Median Filter
 
+## Segmentation
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot)
 Region Growing
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1feA4SNDC2UXOPJ1EN52sAuao6C300iPS)
- deteccion de regiones (OTSU, MSER, etc)
+Region Detection using OTSU, MSER, etc.
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX)
- deteccion de bordes
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX)
- deteccion de bordes
+Edge Detection
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12gRRaaXfI3Prb39dmnClDOVxLtJNuBnQ)
- Transformada de Hough
+Hough Transform
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG)
 Watershed
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g)
- segmentacion de movimiento
+Motion Segmentation
 
+## Color Processing
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug)
-Segmentacion a color con k-means
+Color Segmentation using K-means
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx)
-Segmentacion a color usando metodo de paper (Python)
+Color Segmentation using Hich Contrast Images
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ItHrL2qr1h5zhtkVKjN8U5C0v6tADDTW)
- mejoramiento de imagen a color oscura
+Color Image Enhancement
 
