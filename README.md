@@ -5,7 +5,7 @@ Google colab's for image processing, pattern recognition and computer vision
 # Pattern Recognition
 
 
-## Feature Extraction
+## + Feature Extraction
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZOumR0CtHiBc1Lgk76Qk4VJ0KbU9-eCr) 
 Fourier Descriptors **(NEW)**
@@ -27,7 +27,7 @@ Pedestrian Detection using Histogram of Gradients (HoG) **(NEW)**
 
 
 
-## Feature Selection / Feature Transformation
+## + Feature Selection / Feature Transformation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
 5-Chracter Recognition using Sequential Forward Selection (SFS) **(NEW)**
@@ -43,7 +43,7 @@ Collection of Feature Selection / Transformation Methods **(NEW)**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl) 
 Gender Recognition
 
-## Classification
+## + Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ti8JNp08hJsZFPhEIHQM0C72m0xrbclV) 
 Collection of Methods for Visualization of Feature Space **(NEW)**
@@ -78,7 +78,7 @@ CNN usando PyTorch para la clasificación de Gatos vs. Perros
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_)
 CNN usando PyTorch para la clasificación de 7 lesiones en Lunares
 
-## Performance Evaluation
+## + Performance Evaluation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(NEW)**
 
@@ -112,7 +112,7 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 
 # Deep learning in Computer Vision
 
-## Image Classification
+## + Image Classification
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11W9Ha2CKe3-TEbG1vNdm6SZAjkMQEOoJ) Clasification of Eyes and Noses 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ) Clasification of Skin Lesions (two classes)
@@ -133,14 +133,14 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 
 
 
-## Transfer Learning (CNN with fine-tunning)
+## + Transfer Learning (CNN with fine-tunning)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1htGu8nFopaxCKsnObxh7Wj3AJZRsLN0M) Clasification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8) Clasification of Skin Lesions (seven classes using pre-trained ResNet50)
 
 
-## Facial Analysis
+## + Facial Analysis
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2) Face Detection 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk) Face Recognition (1:1) with ArcFace (face verification) 
@@ -168,11 +168,11 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x) Face Verification Explanation (Minus, Plus, AVG, SEQ, LIME, RISE)
 
 
-## Human Analysis
+## + Human Analysis
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qjgjQ9HLoIrgsAQHmazAXf4YsvB1Bx6D) Detection of Human Pose using OpenPose 
 
 
-### Object detection
+## + Object detection
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XgViuzkAge2QbUwfjcbUAnANb4xPXbdL) Detection of Eye and Mouth using YOLOv5
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YClT3SsWXL2BypXgEP8T4T-zqeWjnTI_) Defect Detection in Aluminum Castings using YOLOv5
@@ -187,15 +187,15 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 
 
 
-## Tracking
+## + Tracking
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AfB_f8abUoRJmMx-FpVMdTBnXtV9FXGn) Tracking of Multiple Objects in Videos using YOLOv5
 
 
-## Segmentation (using Deep Learning)
+## + Segmentation (using Deep Learning)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_aXBWHWTSbkpQgwrYJsubrkRlqeKQGWa) Segmentation of Skin Lesions using UNet
 
 
-## Generative adversarial network (GAN)
+## + Generative adversarial network (GAN)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mofzVUHRGJS6ocZy3k5EH_z0QHkAKXOe) Basic GAN for Digits Generation using MNIST
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtM1MZSrTawdeUon-dijO0X8z6Cgs_b5) DCGAN for Digits Generation using MNIST
@@ -208,7 +208,7 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 
 
 
-## Anomaly Detection
+## + Anomaly Detection
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5qUxqcy7q-_5fLS8S8jWUaO9oTqfDfv) Anomaly Detection using MNIST(0: normal class, 1,2,..9:anomaly) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OzyFFMCKUv_RrLvumExFIufV9qBx7TSy) Contrastive Learning in CIFAR dataset 
@@ -217,7 +217,7 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 # Image Processing
 
 
-## Basics
+## + Basics
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr) Introduuctory Example: Segmentation of a rice
 
@@ -227,7 +227,7 @@ Sampling (spatial and grayscale sampling)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O)
 Basic color segmentation
 
-## Image Processing in Spatial Domain
+## + Image Processing in Spatial Domain
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W)
 Geometric Transformation
@@ -238,7 +238,7 @@ Equalization of Histogram
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XX675cvJDBDnoHRU3LnPaBs0mR0mjqZP)
 Filtering with Masks (kernels)
 
-## Image Processing in Frequency Domain
+## + Image Processing in Frequency Domain
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg)
 1D Convolution
@@ -252,21 +252,21 @@ Filtering with Masks (kernels)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wKwqaNt69I7FNl_mJq3wpg0l4xHi-Nit)
 Homomorphic Filter
 
-## Image Restauration
+## + Image Restauration
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o)
 Basic Image Restauration
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FqJdpqbyZoSD60Wzzr5gTGcpqyazCN-1)
 Wiener Filter
 
-## Morphology
+## + Morphology
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ibtjuy9wefTFZ4S6bZJWNPBw_rD4Jilo)
 Erosion, Dilatio, Opening, Closing
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mq2W2sYdRmGVRKYPUY5awyjQ1LXHajKJ)
 Median Filter
 
-## Segmentation
+## + Segmentation
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot)
 Region Growing
 
@@ -285,7 +285,7 @@ Watershed
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g)
 Motion Segmentation
 
-## Color Processing
+## + Color Processing
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug)
 Color Segmentation using K-means
 
