@@ -5,8 +5,11 @@ Google colab's for image processing, pattern recognition and computer vision
 
 # Table of Contents
 
-## Pattern Recognition
+## [Pattern Recognition](https://github.com/domingomery/visioncolab#pattern-recognition-1)
 * [Feature Extraction](https://github.com/domingomery/visioncolab#-feature-extraction)
+* [Feature Selection and Transformation]()
+* [Classification]()
+* [Performance Evaluation]()
 
 
 # Pattern Recognition
@@ -34,7 +37,7 @@ Pedestrian Detection using Histogram of Gradients (HoG) **(NEW)**
 
 
 
-## + Feature Selection / Feature Transformation
+## + Feature Selection and Transformation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
 5-Chracter Recognition using Sequential Forward Selection (SFS) **(NEW)**
