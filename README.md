@@ -7,9 +7,40 @@ Google colab's for image processing, pattern recognition and computer vision
 
 ## [Pattern Recognition](https://github.com/domingomery/visioncolab#pattern-recognition-1)
 * [Feature Extraction](https://github.com/domingomery/visioncolab#-feature-extraction)
-* [Feature Selection and Transformation]()
-* [Classification]()
-* [Performance Evaluation]()
+* [Feature Selection and Transformation](https://github.com/domingomery/visioncolab#-feature-selection-and-transformation)
+* [Classification](https://github.com/domingomery/visioncolab#-classification)
+* [Performance Evaluation](https://github.com/domingomery/visioncolab#-performance-evaluation)
+
+## [Geometry in Computer Vision](https://github.com/domingomery/visioncolab#geometry-in-commputer-vision)
+* [Basics](https://github.com/domingomery/visioncolab#-basics)
+* [Geometric Transformations](https://github.com/domingomery/visioncolab#-geometric-transformations)
+* [One View](https://github.com/domingomery/visioncolab#-one-view)
+* [Two Views](https://github.com/domingomery/visioncolab#-two-views)
+* [Multiple Views](https://github.com/domingomery/visioncolab#-multiple-views)
+
+
+## [Deep Learning in Computer Vision](https://github.com/domingomery/visioncolab#deep-learning-in-computer-vision)
+* [Image Classification](https://github.com/domingomery/visioncolab#-image-classification)
+* [Transfer Learning](https://github.com/domingomery/visioncolab#-transfer-learning)
+* [Facial Analysis](https://github.com/domingomery/visioncolab#-facial-analysis)
+* [Human Analysis](https://github.com/domingomery/visioncolab#-human-analysis)
+* [Object Detection](https://github.com/domingomery/visioncolab#-object-detection)
+* [Tracking](https://github.com/domingomery/visioncolab#-tracking)
+* [Segmentation](https://github.com/domingomery/visioncolab#-segmentation-using-deep-learning)
+* [GAN](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
+* [Anomaly Detection](https://github.com/domingomery/visioncolab#-anomaly-detection)
+
+## [Image Processing](https://github.com/domingomery/visioncolab#image-processing)
+* [Basics](https://github.com/domingomery/visioncolab#-basics-1)
+* [Spatial Domain](https://github.com/domingomery/visioncolab#-image-processing-in-spatial-domain)
+* [Frequency Dommain](https://github.com/domingomery/visioncolab#-image-processing-in-frequency-domain)
+* [Image Restauration](https://github.com/domingomery/visioncolab#-image-restauration)
+* [Morphology](https://github.com/domingomery/visioncolab#-morphology)
+* [Segmentation](https://github.com/domingomery/visioncolab#-segmentation)
+* [Color Processing](https://github.com/domingomery/visioncolab#-color-processing)
+
+
+
 
 
 # Pattern Recognition
@@ -150,7 +181,7 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 
 
 
-## + Transfer Learning (CNN with fine-tunning)
+## + Transfer Learning
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1htGu8nFopaxCKsnObxh7Wj3AJZRsLN0M) Clasification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18)
 
