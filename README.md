@@ -264,7 +264,6 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(N
 
 # Image Processing
 
-
 ## + Basics
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr) Introduuctory Example: Segmentation of a rice
