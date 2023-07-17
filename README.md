@@ -7,7 +7,7 @@ by [Domingo Mery](https://domingomery.ing.puc.cl/)
 # Table of Contents
 
 ## [Image Processing](https://github.com/domingomery/visioncolab#image-processing)
-* [Basics](https://github.com/domingomery/visioncolab#-basics-1)
+* [Basic Image Processing](https://github.com/domingomery/visioncolab#-basic-image-processing)
 * [Spatial Domain](https://github.com/domingomery/visioncolab#-image-processing-in-spatial-domain)
 * [Frequency Dommain](https://github.com/domingomery/visioncolab#-image-processing-in-frequency-domain)
 * [Image Restauration](https://github.com/domingomery/visioncolab#-image-restauration)
@@ -45,7 +45,7 @@ ___
 
 # Image Processing
 
-## + Basics
+## + Basic Image Processing
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr) Introduuctory Example: Segmentation of a rice
 
