@@ -50,85 +50,86 @@ ___
 
 ## + Basic Image Processing
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0) Introductory Example: Rice segmentation
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0) Introductory Example: Rice segmentation (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
-Sampling (spatial and grayscale sampling)
+Sampling (spatial and grayscale sampling) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
-Basic color segmentation
+Basic color segmentation (+)
 
 ## + Image Processing in Spatial Domain
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
-Geometric Transformation
+Geometric Transformation (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yYoH_UcDlqCXD-EMAI6moU9m7G7dScJ0)
-Equalization of Histogram
+Equalization of Histogram (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
-Filtering with Masks (kernels)
+Filtering with Masks (kernels) (+)
 
 ## + Image Processing in Frequency Domain
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_WXzkk-9eK9_ZMLvByU9uUTgSmqIjJf)
-1D Convolution
+1D Convolution (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Vs-z4KIsgzOc_h3KWFZko2gPOvPRRfY)
-1D Fourier Transform for Audio Signals
+1D Fourier Transform for Audio Signals (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E4CtsHpohsNRBXwJotORrmTGvGpAQDGM)
-2D Filtering uisng Fourier
+2D Filtering uisng Fourier (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kmwRgPoca3sEboUTdHTuIFqpKbPOu2I5)
-Homomorphic Filter
+Homomorphic Filter (+)
 
 ## + Image Restauration
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcq5BYnD8ITJEAPXLY5q9m6TM4MIt9oS)
-Basic Image Restauration
+Basic Image Restauration (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
-Wiener Filter
+Wiener Filter (+)
 
 ## + Morphology
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
-Erosion, Dilatio, Opening, Closing, Skeletization, Filling-Holes, Gradient
+Erosion, Dilatio, Opening, Closing, Skeletization, Filling-Holes, Gradient (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17IeANV0SyAt3C1PGPPjpgcIbgSqesgCc)
-Top Hat
+Top Hat Filter (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IXVXu-tbLuUtYEngT6YQ1OLzu8bmxC72?usp=sharing)
-Median Filter
+Median Filter (+)
 
 ## + Segmentation
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNxGiXc132_o1YiAdVP5fWBdlTbuTKK2)
-Region Growing
+Region Growing (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
-Region Detection using OTSU, MSER, etc.
+Region Detection using OTSU, MSER, etc. (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
-Edge Detection
+Edge Detection (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13DOIjxeyXxuPX_G41_ltur8jBMMTsUJ0)
-Hough Transform
+Hough Transform (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEA0APG3hRL7VKzcjaWYysC5fdRa9_l_)
-Watershed
+Watershed (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ohr3yh0bFkueONUEGaHa5F67zlSf3aTy)
-Motion Segmentation
+Motion Segmentation (+)
 
 ## + Color Processing
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fOO0N4TUTVuWZlhHvgJZDloVMXe445KE)
-Color Segmentation using K-means
+Color Segmentation using K-means (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CiPBYICHR4z0F84IQDBS956mJkbe5EJV)
-Color Segmentation using Hich Contrast Images
+Color Segmentation using Hich Contrast Images (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
-Color Image Enhancement
+Color Image Enhancement (+)
 
+(+) Tested in July, 2023
 ___
 
 
@@ -163,36 +164,37 @@ Cow Biometrics using SIFT (+)
 
 ## + Feature Selection and Transformation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
-5-Chracter Recognition using Sequential Forward Selection (SFS) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw) 
+5-Chracter Recognition using Sequential Forward Selection (SFS) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
-Basic Feature Selection **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v1v6qxWkOTmd20cqNOgc5v8jpNWlhgXQ) 
+Basic Feature Selection and Transformation: SFS, Exhaustive Search, PCA, PLSR, ICA, etc. (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v3eCfNZ9wNc75T3y8nxMLRZc9zaGcPPz) Face Recognition with LBP using Reconocimiento facial con LBP using Feature Transformation (PCA, ICA and PLSR) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw) Face Recognition with LBP using Reconocimiento facial con LBP using Feature Transformation (PCA, ICA and PLSR) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1flNimfx35g0MdCAN3dbGmN_YshZ2UuKm) 
-Collection of Feature Selection / Transformation Methods **(NEW)**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl) 
-Gender Recognition
 
 ## + Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ti8JNp08hJsZFPhEIHQM0C72m0xrbclV) 
-Collection of Methods for Visualization of Feature Space **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4) 
+Collection of Methods for Visualization of Feature Space (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP) 
-Basic Classifiers (KNN, Bayes, LDA, QDA, Mahalanobis) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW) 
+Basic Classifiers (KNN, Bayes, LDA, QDA, Mahalanobis) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1m8gH2GG-KNx1j8Pb6BfnUOEc0h41Lapj) 
-Neural Networks (from scratch and using sklearn) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I) 
+Setting Hyperparameter K of KNN using Validation Dataset (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TeVnxst-2QWPVVXeYd12yh8sxxGT2QEJ) 
-Support Vector Machines (SVM) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr) 
+Neural Networks (from scratch and using sklearn) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SKFWoG08xemnoMOsOcNwxs9i7FnLITmu)
-Neural Networks for MNIST dataset **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP) 
+Support Vector Machines (SVM) (+)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Ov_XODfq3fgPI1kW9jSs0U96DNbO3qhu) 
+Exhaustive Search of the Best Classifier (+)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
+Neural Networks for MNIST dataset (+)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY)
 CNN usando PyTorch para la clasificación de MNIST
@@ -215,6 +217,8 @@ CNN usando PyTorch para la clasificación de 7 lesiones en Lunares
 ## + Performance Evaluation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(NEW)**
+
+(+) Tested in July, 2023
 
 ___
 
