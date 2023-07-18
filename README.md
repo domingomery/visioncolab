@@ -137,23 +137,27 @@ ___
 
 ## + Feature Extraction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZOumR0CtHiBc1Lgk76Qk4VJ0KbU9-eCr) 
-Fourier Descriptors **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/16yJ8HrhXU0bGcvEMyzTPiuBwf8XLjR5J) 
-Geometric features (básic, elliptical and moments) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1y1S5cWo81uWrSqO3kAkaCHb80cJZqb_R) 
+Fourier Descriptors (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9) 
-Face Recognition using Local Binary Patterns (LBP)  **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1as-P-0jA2QePQ9bhnds9_YQZP2n-GvPQ) 
+Geometric features (basic, elliptical and moments) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Xwr4fcZ4JtaDWVQYSFMW2aqxfV36zCwo) 
-Face Detection using Haralick and Gabor features **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10kkY5bQD6m1E_Iz5ECPnFrx2xia3A1YE) 
+Intensity Features (basic, contrast and Crossing Line Profile) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS) 
-Texture Recognition using LBP, Haralick and Gabor features **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-YIkUsTifUEZRmTOiUjJHTZ7j0forPkT) 
+Face Recognition using Local Binary Patterns (LBP) (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pc-eyku_hEFuwL0jAUuuq2_frMxfWVk2) 
-Pedestrian Detection using Histogram of Gradients (HoG) **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gdYVNc92Col5pitNJ46C-iio3lZ5nU4U) 
+Texture Recognition using LBP, Haralick and Gabor features (+)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCVaiHvR6-RmF1C7AS42uon_FIAXICEh) 
+Pedestrian Detection using Histogram of Gradients (HoG) (+)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1mPt9MI2ytByR23KpmCveQnP4AbeTvb7k) 
+Cow Biometrics using SIFT (+)
 
 
 
