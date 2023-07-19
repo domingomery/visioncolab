@@ -260,31 +260,39 @@ ___
 # Deep learning in Computer Vision
 
 ## + Image Classification
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11W9Ha2CKe3-TEbG1vNdm6SZAjkMQEOoJ) Clasification of Eyes and Noses 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ) Clasification of Skin Lesions (two classes)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-) Clasification of Eyes and Noses (two classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj) Clasification of Dogs and Cats
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi) Defect detection in aluminum wheels (two classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Jd3ZDEuQlt5OFea4xQQkaihtG6v1YDQ) Clasification of Pedestrians with Bikes (three classes)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wvbWbDkdIyJ_JW9OcloE-s4dH5OH6knd) Skin Lesion Recognition (two classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-) Clasification of Skin Lesions (seven classes)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO) Clasification of Dogs and Cats (two classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b6TSPdYmLi9HGpoHFstOOZSN9hlmezsL) Pretrained Models (from library TorchVision: ResNet, MobileNet, SqueezeNet, AxelNet, VGG, etc.)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1w1TzZQaN7d3CyfAV7fUklRXdSPTv3Dfh) Covid recognition in Lung X-ray images (three classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wV3gSo7C5AvGht9RgQTtQG3khRTsCpkW) ARLNET (Atterntion Resisual Learning blocks) (implementacion de Vipermdl/ARL)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Suqs0ml5YoZ0e6HxbF29i044yzUc_AOP) Clasification of Pedestrians with Bikes (three classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TXbvJ7b7FjSAPQaOxh7Gws42v2ATjAZX) EfficientNet (from library efficientnet_pytorch)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS) Clasification of Skin Lesion Recognition (seven classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformes (from library HuggingFaces)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voq418i9PtdZitUOXd4TPIsEX6AzBAWz) ARLNET (Atterntion Resisual Learning blocks) (+)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OnaLDIaYgBpKAC0FTK_5a8vyvQwgzFD8?usp=sharing) EfficientNet (+)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformes (from library HuggingFaces) (+)
+
+(+) Tested in July, 2023
 
 
 ## + Transfer Learning
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1htGu8nFopaxCKsnObxh7Wj3AJZRsLN0M) Clasification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](train_loader) Clasification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8) Clasification of Skin Lesions (seven classes using pre-trained ResNet50)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZY6RaR_fXrqjQbNpqhOEm8GVBEYdowki) Transfer Learning with several Pretrained Models from PyTorch (+)
+
+(+) Tested in July, 2023
+
 
 
 ## + Facial Analysis
