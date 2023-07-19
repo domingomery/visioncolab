@@ -207,35 +207,41 @@ ___
 # Geometry in Commputer Vision
 
 ## + Basics
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX) Points and lines in homogeneous coordinates 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2) Points and lines in homogeneous coordinates (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18N9YFx7AWlky-T34K4hPAGZtPEffV1bZ) Pose orientation of a face using Landmarks
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LJcOcxEEY5Kvf6hGyl3nyZRbPtZ3jIfD) Pose orientation of a face using Landmarks (*)
 
 ## + Geometric Transformations
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ) 2D Transformations and Homography
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin) 2D Transformations and Homography (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UZuvd88BvUt3IBIKHDZAi7ticI50TCWN) 3D Transformations
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l?usp=sharing) Mosaics using SIFT (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz) 3D Reconstruction
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3) 3D Transformations (*)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg) 3D Reconstruction (*)
 
 
 ## + One View
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q4Gmt252JSXH9MZmcuVcHde3gLbZPM6H) Perspective Correction using Homography
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aCH-K2fCE28dp7-rNrwLEfOs0EZ-rlCD?usp=sharing) Perspective Correction using Homography (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE) Camera Calibration
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5) Camera Calibration (*)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI) Camera Calibration (*)
 
 ## + Two Views
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX) Epipolar Geometry (two views)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JMA_rgIINWX1xaFYZJOaI6qgY-Mu6aha?usp=sharing) Epipolar Geometry (two views) (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xqpBevsjl0mcFNXhdNduXNPVN92xipna) Estimation of Fundamental Matrix using Corresponding Points in Two Views
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vmC5xiECedB0XGDWXZnoM5H9ghmaJB2P?usp=sharing) Estimation of Fundamental Matrix using Corresponding Points in Two Views (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12nyxDvok_gxEiLb8GzyxAEzrCyxnyBjC) Estimation of a Line using RANSAC
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OYVC7PnRYyrqcPPIVrU7Rp0Sd8bpqHCb?usp=sharing) Estimation of a Line using RANSAC (*)
+
 
 ## + Multiple Views
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ) Mosaics using SIFT
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De) Trifocal Geometry (three views) (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br) Trifocal Geometry (three views)
+(*) Updated in July-2023, some of them in Spanish
 
 ___
 
@@ -256,7 +262,6 @@ ___
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Suqs0ml5YoZ0e6HxbF29i044yzUc_AOP) Clasification of Pedestrians with Bikes (three classes) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS) Clasification of Skin Lesion Recognition (seven classes) (+)
-
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voq418i9PtdZitUOXd4TPIsEX6AzBAWz) ARLNET (Atterntion Resisual Learning blocks) (+)
 
