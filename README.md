@@ -170,7 +170,7 @@ Cow Biometrics using SIFT (+)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v1v6qxWkOTmd20cqNOgc5v8jpNWlhgXQ) 
 Basic Feature Selection and Transformation: SFS, Exhaustive Search, PCA, PLSR, ICA, etc. (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw) Face Recognition with LBP using Reconocimiento facial con LBP using Feature Transformation (PCA, ICA and PLSR) (+)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw) Face Recognition with LBP using PCA, ICA and PLSR (+)
 
 
 ## + Classification
@@ -214,9 +214,6 @@ ___
 ## + Geometric Transformations
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin) 2D Transformations and Homography (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l?usp=sharing) Mosaics using SIFT (*)
-
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3) 3D Transformations (*)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg) 3D Reconstruction (*)
@@ -238,6 +235,8 @@ ___
 
 
 ## + Multiple Views
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l?usp=sharing) Mosaics using SIFT (*)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De) Trifocal Geometry (three views) (*)
 
