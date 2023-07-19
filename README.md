@@ -196,24 +196,6 @@ Exhaustive Search of the Best Classifier (+)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 Neural Networks for MNIST dataset (+)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY)
-CNN usando PyTorch para la clasificación de MNIST
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK)
-CNN usando PyTorch para la clasificación de Ojos vs. narices
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OcZMT2CNOmxOyeOtNrfltD-7Q9P0DiOL)
-CNN usando PyTorch para la clasificación de Defectos en Castings
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss)
-CNN usando PyTorch para la clasificación de Lunares malignos vs. benignos
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK)
-CNN usando PyTorch para la clasificación de Gatos vs. Perros
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_)
-CNN usando PyTorch para la clasificación de 7 lesiones en Lunares
-
 ## + Performance Evaluation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(NEW)**
@@ -363,86 +345,4 @@ ___
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5qUxqcy7q-_5fLS8S8jWUaO9oTqfDfv) Anomaly Detection using MNIST(0: normal class, 1,2,..9:anomaly) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OzyFFMCKUv_RrLvumExFIufV9qBx7TSy) Contrastive Learning in CIFAR dataset 
-
-___
-
-# Image Processing
-
-## + Basics
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr) Introduuctory Example: Segmentation of a rice
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C)
-Sampling (spatial and grayscale sampling)
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O)
-Basic color segmentation
-
-## + Image Processing in Spatial Domain
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W)
-Geometric Transformation
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t)
-Equalization of Histogram
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XX675cvJDBDnoHRU3LnPaBs0mR0mjqZP)
-Filtering with Masks (kernels)
-
-## + Image Processing in Frequency Domain
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg)
-1D Convolution
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF)
-1D Fourier Transform for Audio Signals
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi)
-2D Filtering uisng Fourier
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wKwqaNt69I7FNl_mJq3wpg0l4xHi-Nit)
-Homomorphic Filter
-
-## + Image Restauration
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o)
-Basic Image Restauration
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FqJdpqbyZoSD60Wzzr5gTGcpqyazCN-1)
-Wiener Filter
-
-## + Morphology
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ibtjuy9wefTFZ4S6bZJWNPBw_rD4Jilo)
-Erosion, Dilatio, Opening, Closing
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mq2W2sYdRmGVRKYPUY5awyjQ1LXHajKJ)
-Median Filter
-
-## + Segmentation
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot)
-Region Growing
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1feA4SNDC2UXOPJ1EN52sAuao6C300iPS)
-Region Detection using OTSU, MSER, etc.
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX)
-Edge Detection
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12gRRaaXfI3Prb39dmnClDOVxLtJNuBnQ)
-Hough Transform
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG)
-Watershed
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g)
-Motion Segmentation
-
-## + Color Processing
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug)
-Color Segmentation using K-means
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx)
-Color Segmentation using Hich Contrast Images
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ItHrL2qr1h5zhtkVKjN8U5C0v6tADDTW)
-Color Image Enhancement
 
