@@ -285,9 +285,9 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk) Face Recognition (1:1) with ArcFace (face verification) (*)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY) Face Recognition (1:1) with AdaFace (face verification) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY) Face Recognition (1:1) with AdaFace (face verification) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz0TUOu97eWAijhBV57KjERuzN-SqAGG) Face Recognition (1:N) with ArcFace (face recognition) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ) Face Recognition (1:N) with AdaFace (face recognition) (+) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c4NCkaEM6B0GhFr1Ml35x8k-EPpRHFNV) Age and Gender Recognition (*)
 
@@ -305,7 +305,7 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HUKDnGq0eVImnpqeJ6hV-qiYhOsXCrx) Restauration of Image Faces using GFPGAN (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x) Face Verification Explanation (Minus, Plus, AVG, SEQ, LIME, RISE)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO) Face Analysis Explanation (Minus, Plus, AVG, SEQ, LIME, RISE) (+)
 
 (+) Tested in July, 2023
 (*) There are some version troubles :(
