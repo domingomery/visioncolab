@@ -2,9 +2,8 @@
 
 
 # visioncolab
-Google colab's for image processing, pattern recognition and computer vision
+100 Google colab's for image processing, pattern recognition and computer vision
 by [Domingo Mery](https://domingomery.ing.puc.cl/)
-
 
 
 # Table of Contents
@@ -266,7 +265,7 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OnaLDIaYgBpKAC0FTK_5a8vyvQwgzFD8?usp=sharing) EfficientNet (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformes (from library HuggingFaces) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformers (from library HuggingFaces) (+)
 
 (+) Tested in July, 2023
 
@@ -282,29 +281,29 @@ ___
 
 
 ## + Facial Analysis
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2) Face Detection 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m3Xk_kWgFEOlz3ch48ODzuZAjQuWuhrd) Face Detection using MTCNN (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk) Face Recognition (1:1) with ArcFace (face verification) 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VOkU_E7y4lslkRcL9OP4R2CkOoOVIq9Z) Face Recognition (1:1) with AdaFace (face verification) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY) Face Recognition (1:1) with AdaFace (face verification) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz0TUOu97eWAijhBV57KjERuzN-SqAGG) Face Recognition (1:N) with ArcFace (face recognition) 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP) Age and Gender Recognition
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c4NCkaEM6B0GhFr1Ml35x8k-EPpRHFNV) Age and Gender Recognition (*)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13BW4jUgkqZ8whbiUcM-wDdf1eULQAgCP) Face Expression Recognition
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vng0-J6R2GD174Nd60IEbq_3l2mj1O-t) Face Expression Recognition (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWYjdlSWjk42SZs-AFrUGAMKjQWyryd9) Landmark Detection (68 face landmarks) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ubm6lhovuoIZSah4vZlyM2rfaO-ZobKg) Landmark Detection (68 face landmarks) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L) Face Geometric Mesh
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NQ7MablOgB3HdLHbzu9boUIXUDNu-kRm) Face Geometric Mesh (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jGFQK_e2fU3aW_MSwnqNpiRVeV0ku-Ac) Estimation of Head Pose
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15iNhHA8tvpFj04j1pHFTWhC-bFwop_iG?usp=sharing) Estimation of Head Pose from Face Landmarks (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe7gj1KmpHz5GjnVA5Eo02TaXZ7uts3O) Mask Detection in Face using YOLOv5
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iAxe7WwQutRdXaYvM9BOouzIX2Izlqk4) Mask Detection in Face using YOLOv5 (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nwZpQHKStD6EffAcWFBL5m3gV9Zi6yWp) Eye and Mouth Detection using YOLOv5
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VdL1bP4d3JpTFklFmjvDJbcmVMCJ5Pvs) Eye and Mouth Detection using YOLOv5 (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WrG0uO31Z9pmsuhrP0UEMX9fRe_gSGWt) Restauration of Image Faces using GAN 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HUKDnGq0eVImnpqeJ6hV-qiYhOsXCrx) Restauration of Image Faces using GFPGAN (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x) Face Verification Explanation (Minus, Plus, AVG, SEQ, LIME, RISE)
 
