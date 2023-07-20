@@ -196,8 +196,8 @@ Exhaustive Search of the Best Classifier (+)
 Neural Networks for MNIST dataset (+)
 
 ## + Performance Evaluation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
-Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector **(NEW)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAa6yy0GtOLoU1LQ7mEzK9xvR6scpeJd)
+Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector (+)
 
 (+) Tested in July, 2023
 
