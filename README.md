@@ -283,7 +283,7 @@ ___
 ## + Facial Analysis
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m3Xk_kWgFEOlz3ch48ODzuZAjQuWuhrd) Face Detection using MTCNN (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk) Face Recognition (1:1) with ArcFace (face verification) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk) Face Recognition (1:1) with ArcFace (face verification) (*)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY) Face Recognition (1:1) with AdaFace (face verification) 
 
@@ -306,6 +306,10 @@ ___
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HUKDnGq0eVImnpqeJ6hV-qiYhOsXCrx) Restauration of Image Faces using GFPGAN (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x) Face Verification Explanation (Minus, Plus, AVG, SEQ, LIME, RISE)
+
+(+) Tested in July, 2023
+(*) There are some version troubles :(
+
 
 
 ## + Human Analysis
