@@ -199,7 +199,7 @@ Neural Networks for MNIST dataset (+)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAa6yy0GtOLoU1LQ7mEzK9xvR6scpeJd)
 Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector (+)
 
-(+) Tested in July, 2023
+(+) Tested in July 2023
 
 ___
 
