@@ -106,6 +106,8 @@ Region Growing (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 Region Detection using OTSU, MSER, etc. (+)
 
+* See Segmentation in Module [ Deep Learning > Segmentation ]
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 Edge Detection (+)
 
@@ -183,8 +185,12 @@ Basic Classifiers (KNN, Bayes, LDA, QDA, Mahalanobis) (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I) 
 Setting Hyperparameter K of KNN using Validation Dataset (+)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Kq95OH9Vnu-prrhYeThaq6pDnupfEDOD) 
+Neural Networks from scratch (+)
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr) 
-Neural Networks (from scratch and using sklearn) (+)
+Neural Networks (using sklearn) (+)
+
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP) 
 Support Vector Machines (SVM) (+)
@@ -194,6 +200,7 @@ Exhaustive Search of the Best Classifier (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 Neural Networks for MNIST dataset (+)
+
 
 ## + Performance Evaluation
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAa6yy0GtOLoU1LQ7mEzK9xvR6scpeJd)
@@ -209,9 +216,7 @@ Collection of Clustering Algorithms (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jB22nQaQI3CSS1cYlLGd8W6HvEIpdnBM)
 Bag of Visual Words (+)
 
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jB22nQaQI3CSS1cYlLGd8W6HvEIpdnBM/view)
-Bag of Visual Words (+)
+* See Face Clustering in Module [ Deep Learning > Facial Analysis ]  
 
 (+) Tested in July 2023
 
@@ -326,6 +331,11 @@ Face Clustering (+)
 
 ## + Human Analysis
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qjgjQ9HLoIrgsAQHmazAXf4YsvB1Bx6D) Detection of Human Pose using OpenPose 
+
+* See Classification of Pedestrians with Bikes in Module [ Deep Learning > Image Classification ]  
+
+
+
 
 
 ## + Object detection
