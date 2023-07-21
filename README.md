@@ -12,7 +12,7 @@ by [Domingo Mery](https://domingomery.ing.puc.cl/)
 * [Basic Image Processing](https://github.com/domingomery/visioncolab#-basic-image-processing)
 * [Spatial Domain](https://github.com/domingomery/visioncolab#-image-processing-in-spatial-domain)
 * [Frequency Dommain](https://github.com/domingomery/visioncolab#-image-processing-in-frequency-domain)
-* [Image Restauration](https://github.com/domingomery/visioncolab#-image-restauration)
+* [Image Restoration](https://github.com/domingomery/visioncolab#-image-restoration)
 * [Morphology](https://github.com/domingomery/visioncolab#-morphology)
 * [Segmentation](https://github.com/domingomery/visioncolab#-segmentation)
 * [Color Processing](https://github.com/domingomery/visioncolab#-color-processing)
@@ -82,21 +82,21 @@ Filtering with Masks (kernels) (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kmwRgPoca3sEboUTdHTuIFqpKbPOu2I5)
 Homomorphic Filter (+)
 
-## + Image Restauration
+## + Image Restoration
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcq5BYnD8ITJEAPXLY5q9m6TM4MIt9oS)
-Basic Image Restauration (+)
+Basic Image Restoration (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
 Wiener Filter (+)
 
 ## + Morphology
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
-Erosion, Dilatio, Opening, Closing, Skeletization, Filling-Holes, Gradient (+)
+Erosion, Dilation, Opening, Closing, Skeletization, Filling-Holes, Gradient (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17IeANV0SyAt3C1PGPPjpgcIbgSqesgCc)
 Top Hat Filter (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IXVXu-tbLuUtYEngT6YQ1OLzu8bmxC72?usp=sharing)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IXVXu-tbLuUtYEngT6YQ1OLzu8bmxC72)
 Median Filter (+)
 
 ## + Segmentation
@@ -123,7 +123,7 @@ Motion Segmentation (+)
 Color Segmentation using K-means (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CiPBYICHR4z0F84IQDBS956mJkbe5EJV)
-Color Segmentation using Hich Contrast Images (+)
+Color Segmentation using High Contrast Images (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
 Color Image Enhancement (+)
@@ -164,7 +164,7 @@ Cow Biometrics using SIFT (+)
 ## + Feature Selection and Transformation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw) 
-5-Chracter Recognition using Sequential Forward Selection (SFS) (+)
+5-Character Recognition using Sequential Forward Selection (SFS) (+)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v1v6qxWkOTmd20cqNOgc5v8jpNWlhgXQ) 
 Basic Feature Selection and Transformation: SFS, Exhaustive Search, PCA, PLSR, ICA, etc. (+)
@@ -199,6 +199,20 @@ Neural Networks for MNIST dataset (+)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAa6yy0GtOLoU1LQ7mEzK9xvR6scpeJd)
 Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector (+)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Xr2l3aZ7a9AculKGxc5C-F80Er0CeRP)
+Model Selector (+)
+
+## Clustering
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OVP3ih9ZlsbdJ-O_kLL60-NYsOwweH9t)
+Collection of Clustering Algorithms (+)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jB22nQaQI3CSS1cYlLGd8W6HvEIpdnBM)
+Bag of Visual Words (+)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jB22nQaQI3CSS1cYlLGd8W6HvEIpdnBM/view)
+Bag of Visual Words (+)
+
 (+) Tested in July 2023
 
 ___
@@ -219,23 +233,23 @@ ___
 
 
 ## + One View
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aCH-K2fCE28dp7-rNrwLEfOs0EZ-rlCD?usp=sharing) Perspective Correction using Homography (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aCH-K2fCE28dp7-rNrwLEfOs0EZ-rlCD) Perspective Correction using Homography (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5) Camera Calibration (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5) Simple Camera Calibration (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI) Camera Calibration (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI) Pro Calibration (*)
 
 ## + Two Views
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JMA_rgIINWX1xaFYZJOaI6qgY-Mu6aha?usp=sharing) Epipolar Geometry (two views) (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JMA_rgIINWX1xaFYZJOaI6qgY-Mu6aha) Epipolar Geometry (two views) (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vmC5xiECedB0XGDWXZnoM5H9ghmaJB2P?usp=sharing) Estimation of Fundamental Matrix using Corresponding Points in Two Views (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vmC5xiECedB0XGDWXZnoM5H9ghmaJB2P) Estimation of Fundamental Matrix using Corresponding Points in Two Views (*)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OYVC7PnRYyrqcPPIVrU7Rp0Sd8bpqHCb?usp=sharing) Estimation of a Line using RANSAC (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OYVC7PnRYyrqcPPIVrU7Rp0Sd8bpqHCb) Estimation of a Line using RANSAC (*)
 
 
 ## + Multiple Views
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l?usp=sharing) Mosaics using SIFT (*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l) Mosaics using SIFT (*)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De) Trifocal Geometry (three views) (*)
 
@@ -247,32 +261,27 @@ ___
 
 ## + Image Classification
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-) Clasification of Eyes and Noses (two classes) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-) Classification of Eyes and Noses (two classes) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi) Defect detection in aluminum wheels (two classes) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wvbWbDkdIyJ_JW9OcloE-s4dH5OH6knd) Skin Lesion Recognition (two classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO) Clasification of Dogs and Cats (two classes) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO) Classification of Dogs and Cats (two classes) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1w1TzZQaN7d3CyfAV7fUklRXdSPTv3Dfh) Covid recognition in Lung X-ray images (three classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Suqs0ml5YoZ0e6HxbF29i044yzUc_AOP) Clasification of Pedestrians with Bikes (three classes) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Suqs0ml5YoZ0e6HxbF29i044yzUc_AOP) Classification of Pedestrians with Bikes (three classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS) Clasification of Skin Lesion Recognition (seven classes) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS) Skin Lesion Recognition (seven classes) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voq418i9PtdZitUOXd4TPIsEX6AzBAWz) ARLNET (Atterntion Resisual Learning blocks) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voq418i9PtdZitUOXd4TPIsEX6AzBAWz) ARLNET (Attention Residual Learning blocks) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OnaLDIaYgBpKAC0FTK_5a8vyvQwgzFD8?usp=sharing) EfficientNet (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OnaLDIaYgBpKAC0FTK_5a8vyvQwgzFD8) EfficientNet (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformers (from library HuggingFaces) (+)
 
-(+) Tested in July, 2023
-
-
-## + Transfer Learning
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](train_loader) Clasification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](train_loader) Classification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZY6RaR_fXrqjQbNpqhOEm8GVBEYdowki) Transfer Learning with several Pretrained Models from PyTorch (+)
 
@@ -289,6 +298,9 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ) Face Recognition (1:N) with AdaFace (face recognition) (+) 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1oLj4lVW8q5S9fnm5hokG2ikOiP-Kgr7y)
+Face Clustering (+)
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c4NCkaEM6B0GhFr1Ml35x8k-EPpRHFNV) Age and Gender Recognition (*)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vng0-J6R2GD174Nd60IEbq_3l2mj1O-t) Face Expression Recognition (+)
@@ -297,13 +309,13 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NQ7MablOgB3HdLHbzu9boUIXUDNu-kRm) Face Geometric Mesh (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15iNhHA8tvpFj04j1pHFTWhC-bFwop_iG?usp=sharing) Estimation of Head Pose from Face Landmarks (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15iNhHA8tvpFj04j1pHFTWhC-bFwop_iG) Estimation of Head Pose from Face Landmarks (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iAxe7WwQutRdXaYvM9BOouzIX2Izlqk4) Mask Detection in Face using YOLOv5 (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VdL1bP4d3JpTFklFmjvDJbcmVMCJ5Pvs) Eye and Mouth Detection using YOLOv5 (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HUKDnGq0eVImnpqeJ6hV-qiYhOsXCrx) Restauration of Image Faces using GFPGAN (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HUKDnGq0eVImnpqeJ6hV-qiYhOsXCrx) Restoration of Image Faces using GFPGAN (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO) Face Analysis Explanation (Minus, Plus, AVG, SEQ, LIME, RISE) (+)
 
@@ -340,9 +352,9 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtM1MZSrTawdeUon-dijO0X8z6Cgs_b5) DCGAN for Digits Generation using MNIST
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tM0cMxPcVd0kwaF95tOqGqDZI-S4xZ2a) SN-GAN for Digits Generation using MNISTpara generar dígitos de MNIST
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tM0cMxPcVd0kwaF95tOqGqDZI-S4xZ2a) SN-GAN for Digits Generation using MNIST
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxt4-I5DziPJ3pc7YaSNJUxABQ6WGyjq) WGAN-GP for Digits Generation using MNIST para generar dígitos de MNIST
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxt4-I5DziPJ3pc7YaSNJUxABQ6WGyjq) WGAN-GP for Digits Generation using MNIST
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EXTVpIqE66Q5N09V6bMx7X_he0PureuU) DCGAN for Generation of X-ray images of Shuriken (64x64 pixeles)
 
