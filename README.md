@@ -22,6 +22,7 @@ by [Domingo Mery](https://domingomery.ing.puc.cl/)
 * [Feature Selection and Transformation](https://github.com/domingomery/visioncolab#-feature-selection-and-transformation)
 * [Classification](https://github.com/domingomery/visioncolab#-classification)
 * [Performance Evaluation](https://github.com/domingomery/visioncolab#-performance-evaluation)
+* [Clustering](https://github.com/domingomery/visioncolab#-clustering)
 
 ## [Geometry in Computer Vision](https://github.com/domingomery/visioncolab#geometry-in-commputer-vision)
 * [Basics](https://github.com/domingomery/visioncolab#-basics)
@@ -191,7 +192,6 @@ Neural Networks from scratch (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr) 
 Neural Networks (using sklearn) (+)
 
-
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP) 
 Support Vector Machines (SVM) (+)
 
@@ -249,7 +249,7 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vmC5xiECedB0XGDWXZnoM5H9ghmaJB2P) Estimation of Fundamental Matrix using Corresponding Points in Two Views (*)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OYVC7PnRYyrqcPPIVrU7Rp0Sd8bpqHCb) Estimation of a Line using RANSAC (*)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OYVC7PnRYyrqcPPIVrU7Rp0Sd8bpqHCb) Estimation using RANSAC (*)
 
 
 ## + Multiple Views
@@ -371,7 +371,7 @@ Face Clustering (+)
 
 
 ## + Anomaly Detection
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5qUxqcy7q-_5fLS8S8jWUaO9oTqfDfv) Anomaly Detection using MNIST(0: normal class, 1,2,..9:anomaly) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5qUxqcy7q-_5fLS8S8jWUaO9oTqfDfv) Anomaly Detection using MNIST(0: normal class, 1,2,..9: anomaly) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OzyFFMCKUv_RrLvumExFIufV9qBx7TSy) Contrastive Learning in CIFAR dataset 
 
