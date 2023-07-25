@@ -1,9 +1,8 @@
 ![Logo](https://github.com/domingomery/visioncolab/blob/main/visioncolab.png)
 
-
-# visioncolab
-----
-# 100 Colabs for Computer Vision
+------
+# 100 Colab's for Computer Vision
+------
 
 100 Google colab's for image processing, pattern recognition and computer vision
 
