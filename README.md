@@ -4,10 +4,10 @@
 # visioncolab
 100 Google colab's for image processing, pattern recognition and computer vision
 by 
-[Domingo Mery](https://domingomery.ing.puc.cl/)
-[Gabriel Garib](https://github.com/GabrielGarib),
+[Domingo Mery](https://domingomery.ing.puc.cl/), 
+[Gabriel Garib](https://github.com/GabrielGarib), 
 [Christian Pieringer](https://github.com/cpieringer), 
-Sebastian Pulgar,-
+Sebastian Pulgar, 
 [Javier Tramon](https://cl.linkedin.com/in/jotramon)} 
 
 
