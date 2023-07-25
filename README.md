@@ -3,7 +3,12 @@
 
 # visioncolab
 100 Google colab's for image processing, pattern recognition and computer vision
-by [Domingo Mery](https://domingomery.ing.puc.cl/)
+by 
+[Domingo Mery](https://domingomery.ing.puc.cl/)
+[Gabriel Garib](https://github.com/GabrielGarib),
+[Christian Pieringer](https://github.com/cpieringer), 
+Sebastian Pulgar,-
+[Javier Tramon](https://cl.linkedin.com/in/jotramon)} 
 
 
 # Table of Contents
@@ -141,11 +146,11 @@ ___
 ## + Feature Extraction
 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1y1S5cWo81uWrSqO3kAkaCHb80cJZqb_R) 
-Fourier Descriptors (+)
-
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1as-P-0jA2QePQ9bhnds9_YQZP2n-GvPQ) 
 Geometric features (basic, elliptical and moments) (+)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1y1S5cWo81uWrSqO3kAkaCHb80cJZqb_R) 
+Fourier Descriptors (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10kkY5bQD6m1E_Iz5ECPnFrx2xia3A1YE) 
 Intensity Features (basic, contrast and Crossing Line Profile) (+)
@@ -201,6 +206,8 @@ Exhaustive Search of the Best Classifier (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 Neural Networks for MNIST dataset (+)
 
+* See Bag of Visual Words [ Pattern Recognition > Clustering ]  
+
 
 ## + Performance Evaluation
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAa6yy0GtOLoU1LQ7mEzK9xvR6scpeJd)
@@ -255,6 +262,9 @@ ___
 ## + Multiple Views
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l) Mosaics using SIFT (*)
+
+* See Epipolar Geometry and Fundamental Matrix [ Multiple View Geometry > Two Views ]  
+
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De) Trifocal Geometry (three views) (*)
 
