@@ -9,7 +9,8 @@
 by 
 [Domingo Mery](https://domingomery.ing.puc.cl/), 
 [Gabriel Garib](https://github.com/GabrielGarib), 
-[Christian Pieringer](https://github.com/cpieringer), 
+[Christian Pieringer](https://github.com/cpieringer),
+[Marco Buucci] 
 Sebastian Pulgar, 
 [Javier Tramon](https://cl.linkedin.com/in/jotramon)
 
@@ -19,7 +20,7 @@ Sebastian Pulgar,
 ## [Image Processing](https://github.com/domingomery/visioncolab#image-processing)
 * [Basic Image Processing](https://github.com/domingomery/visioncolab#-basic-image-processing)
 * [Spatial Domain](https://github.com/domingomery/visioncolab#-image-processing-in-spatial-domain)
-* [Frequency Dommain](https://github.com/domingomery/visioncolab#-image-processing-in-frequency-domain)
+* [Frequency Domain](https://github.com/domingomery/visioncolab#-image-processing-in-frequency-domain)
 * [Image Restoration](https://github.com/domingomery/visioncolab#-image-restoration)
 * [Morphology](https://github.com/domingomery/visioncolab#-morphology)
 * [Segmentation](https://github.com/domingomery/visioncolab#-segmentation)
@@ -315,6 +316,8 @@ ___
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY) Face Recognition (1:1) with AdaFace (face verification) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ) Face Recognition (1:N) with AdaFace (face recognition) (+) 
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bxd14qSyKwrbLajPEbmNxHk17LWlV-0F?usp=sharing) Searching a Face in a Gallery with AdaFace (+) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1oLj4lVW8q5S9fnm5hokG2ikOiP-Kgr7y)
 Face Clustering (+)
