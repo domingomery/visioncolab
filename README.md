@@ -10,8 +10,7 @@ by
 [Domingo Mery](https://domingomery.ing.puc.cl/), 
 [Gabriel Garib](https://github.com/GabrielGarib), 
 [Christian Pieringer](https://github.com/cpieringer),
-[Marco Buucci] 
-Sebastian Pulgar, 
+[Sebastian Pulgar](https://pending), 
 [Javier Tramon](https://cl.linkedin.com/in/jotramon)
 
 
