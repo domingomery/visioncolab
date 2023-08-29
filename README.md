@@ -241,6 +241,9 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LJcOcxEEY5Kvf6hGyl3nyZRbPtZ3jIfD) Pose orientation of a face using Landmarks (*)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g) Parameter estimation with and without outliers (RANSAC) (*)
+
+
 ## + Geometric Transformations
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin) 2D Transformations and Homography (*)
 
@@ -261,12 +264,11 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vmC5xiECedB0XGDWXZnoM5H9ghmaJB2P) Estimation of Fundamental Matrix using Corresponding Points in Two Views (*)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OYVC7PnRYyrqcPPIVrU7Rp0Sd8bpqHCb) Estimation using RANSAC (*)
 
 
 ## + Multiple Views
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxaDUQqbwYWdbfEyIqP_he3RbDh4vb8l) Mosaics using SIFT (*)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs) Mosaics using SIFT (*)
 
 * See Epipolar Geometry and Fundamental Matrix [ Multiple View Geometry > Two Views ]  
 
