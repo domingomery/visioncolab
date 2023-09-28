@@ -337,7 +337,7 @@ Face Clustering (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iAxe7WwQutRdXaYvM9BOouzIX2Izlqk4) Mask Detection in Face using YOLOv5 (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VdL1bP4d3JpTFklFmjvDJbcmVMCJ5Pvs) Eye and Mouth Detection using YOLOv5 (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X?ouid=109990478408880951919&usp=drive_link) Eye and Mouth Detection using YOLOv5 (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HUKDnGq0eVImnpqeJ6hV-qiYhOsXCrx) Restoration of Image Faces using GFPGAN (+)
 
@@ -358,15 +358,15 @@ Face Clustering (+)
 
 
 ## + Object detection
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XgViuzkAge2QbUwfjcbUAnANb4xPXbdL) Detection of Eye and Mouth using YOLOv5
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X?ouid=109990478408880951919) Detection of Eye and Mouth using YOLOv5
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YClT3SsWXL2BypXgEP8T4T-zqeWjnTI_) Defect Detection in Aluminum Castings using YOLOv5
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hmlzjs2F63pfnZfq9-yowTx2xR9r-E_i) Defect Detection in Aluminum Castings using YOLOv5
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OPi-4ogz7ySpgLLoGQyCrpNPB7wUcOYZ) Detection of Threat Objects in Baggage using YOLOv5
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i3d7nAXTDHdFb-5mCeTKLxdmlZv4i1qH) Detection of Threat Objects in Baggage using YOLOv5
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DoGA4RHoEE3OtlyoA-pJx-TiHY1gd5mP) General Object Detection using YOLOv5 (with no training)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1veYMrzZmY73AZFBlv0R7imqhBiKWsPa4?usp=sharing) General Object Detection using YOLOv5 (without training)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jihgbPicjh9VPuQfkdBminSNT3JJWdG3) OCR - Optical Chracter Recognition (OCR) using pytesseract
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12SjMY6xM3VklfBSPO_jg8Up0YLww-dak) OCR - Optical Chracter Recognition (OCR) using pytesseract
 
 ## + Tracking
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AfB_f8abUoRJmMx-FpVMdTBnXtV9FXGn) Tracking of Multiple Objects in Videos using YOLOv5
