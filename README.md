@@ -335,7 +335,7 @@ Face Clustering (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15iNhHA8tvpFj04j1pHFTWhC-bFwop_iG) Estimation of Head Pose from Face Landmarks (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iAxe7WwQutRdXaYvM9BOouzIX2Izlqk4) Mask Detection in Face using YOLOv5 (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/xxxx) Mask Detection in Face using YOLOv5 (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X?ouid=109990478408880951919&usp=drive_link) Eye and Mouth Detection using YOLOv5 (+)
 
