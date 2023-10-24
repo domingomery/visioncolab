@@ -303,7 +303,7 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformers (from library HuggingFaces) (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](train_loader) Classification of Lungs (normal, Covid-19 and pneumonia using pre-trained ResNet18) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z5eH-lfkqk0Sn8b4zkM9jtua6Vj6tmz7) Classification examples using pre-trained mmodels (ResNet*, VGG*, ShuffleNet*, etc.) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZY6RaR_fXrqjQbNpqhOEm8GVBEYdowki) Transfer Learning with several Pretrained Models from PyTorch (+)
 
@@ -377,15 +377,15 @@ Face Clustering (+)
 
 
 ## + Generative adversarial network (GAN)
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mofzVUHRGJS6ocZy3k5EH_z0QHkAKXOe) Basic GAN for Digits Generation using MNIST
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19--DS5Rd64oC6SnJXR39FeRRixKBEQF9) Basic GAN for Digits Generation using MNIST
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtM1MZSrTawdeUon-dijO0X8z6Cgs_b5) DCGAN for Digits Generation using MNIST
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YY1ZlY44wcSq0D98yzHJxBeLMhrUV5Uj) DCGAN for Digits Generation using MNIST
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tM0cMxPcVd0kwaF95tOqGqDZI-S4xZ2a) SN-GAN for Digits Generation using MNIST
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLwlCD9wFMsxgsHw1RD1atb47cXSjeJ5) SN-GAN for Digits Generation using MNIST
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxt4-I5DziPJ3pc7YaSNJUxABQ6WGyjq) WGAN-GP for Digits Generation using MNIST
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BkAU7sjAlabdVACOKERmr00YbKoJILqp) WGAN-GP for Digits Generation using MNIST
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EXTVpIqE66Q5N09V6bMx7X_he0PureuU) DCGAN for Generation of X-ray images of Shuriken (64x64 pixeles)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BHKXuTINvGUvj7lpp2sgH2UuD8Y3M18m) DCGAN for Generation of X-ray images of Shuriken (64x64 pixeles)
 
 
 
