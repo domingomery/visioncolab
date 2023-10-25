@@ -221,6 +221,11 @@ Accuracy Estimation (Hold-Out, Cross-Val, Leave-one-out) and Model Selector (+)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Xr2l3aZ7a9AculKGxc5C-F80Er0CeRP)
 Model Selector (+)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FW83ypZV3a4UqdsgAPsI-TjLJ7ZCyIb6)
+Data Augmentation (+)
+
+
+
 ## + Clustering
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OVP3ih9ZlsbdJ-O_kLL60-NYsOwweH9t)
 Collection of Clustering Algorithms (+)
@@ -304,8 +309,6 @@ ___
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformers (from library HuggingFaces) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z5eH-lfkqk0Sn8b4zkM9jtua6Vj6tmz7) Classification examples using pre-trained mmodels (ResNet*, VGG*, ShuffleNet*, etc.) (+)
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZY6RaR_fXrqjQbNpqhOEm8GVBEYdowki) Transfer Learning with several Pretrained Models from PyTorch (+)
 
 (+) Tested in July, 2023
 
