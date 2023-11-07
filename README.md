@@ -306,7 +306,7 @@ ___
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OnaLDIaYgBpKAC0FTK_5a8vyvQwgzFD8) EfficientNet (+)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_) Visual Transformers (from library HuggingFaces) (+)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view) Visual Transformers (from library HuggingFaces) (+)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z5eH-lfkqk0Sn8b4zkM9jtua6Vj6tmz7) Classification examples using pre-trained mmodels (ResNet*, VGG*, ShuffleNet*, etc.) (+)
 
