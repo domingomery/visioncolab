@@ -361,7 +361,7 @@ Face Clustering (+)
 
 
 ## + Object detection
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X?ouid=109990478408880951919) Detection of Eye and Mouth using YOLOv5
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing) Detection of Eye and Mouth using YOLOv8
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hmlzjs2F63pfnZfq9-yowTx2xR9r-E_i) Defect Detection in Aluminum Castings using YOLOv5
 
